@@ -45,12 +45,7 @@ export default function Home() {
                 Forgot your password?
               </Link>
             </Box>
-            <Button
-              mt="5px"
-              width="full"
-              borderRadius="full"
-              colorScheme="purple"
-            >
+            <Button mt="5px" borderRadius="full" colorScheme="purple">
               Sign in
             </Button>
           </Box>
